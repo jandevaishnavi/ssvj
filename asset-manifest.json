@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ssvj%20/static/css/main.91909957.css",
+    "main.js": "/ssvj%20/static/js/main.db69fa11.js",
+    "static/js/787.e3f562aa.chunk.js": "/ssvj%20/static/js/787.e3f562aa.chunk.js",
+    "static/media/logo.svg": "/ssvj%20/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ssvj%20/index.html",
+    "main.91909957.css.map": "/ssvj%20/static/css/main.91909957.css.map",
+    "main.db69fa11.js.map": "/ssvj%20/static/js/main.db69fa11.js.map",
+    "787.e3f562aa.chunk.js.map": "/ssvj%20/static/js/787.e3f562aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91909957.css",
+    "static/js/main.db69fa11.js"
+  ]
+}
